@@ -1,1 +1,0 @@
-echo "This is my profile page. Student ID: IT23709720" > profile.txt
